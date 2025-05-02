@@ -33,7 +33,7 @@ Este proyecto está licenciado bajo la **MIT License**, la cual permite la redis
 Este proyecto utiliza la librería `Microsoft.Xades` (parte del **XAdES .NET Starter Kit**), originalmente desarrollado por **Microsoft France**, para la firma de documentos XAdES. La librería original está licenciada bajo la **CeCILL-B License**.
 
 **Condiciones:**
-- La librería `Microsoft.Xades` se incluye sin modificaciones.
+- La librería `Microsoft.Xades` se utiliza.
 - Al redistribuir el código o las modificaciones, se debe incluir el aviso de derechos de autor y la licencia CeCILL-B.
 - El software se distribuye "tal cual", sin garantías.
 
