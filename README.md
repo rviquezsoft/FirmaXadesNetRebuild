@@ -43,6 +43,8 @@ La licencia completa de la **CeCILL-B** se puede encontrar en el archivo `LICENS
 
 La librería `Microsoft.Xades` está licenciada bajo la **CeCILL-B**. Puedes consultar el texto completo de la licencia en el archivo `LICENSE_CeCILL-B.txt`, o en el siguiente enlace: [Licencia CeCILL-B](http://www.cecill.info/).
 
+## Cómo instalar:
+Se debe instalar el paquete nuget en visual studio o por consola: https://www.nuget.org/packages/FirmaXadesNetReBuild  ![Nuget](https://img.shields.io/nuget/v/FirmaXadesNetReBuild?label=Richard%20V%C3%ADquez)
 ## Cómo contribuir
 
 1. Realiza un fork de este repositorio.
