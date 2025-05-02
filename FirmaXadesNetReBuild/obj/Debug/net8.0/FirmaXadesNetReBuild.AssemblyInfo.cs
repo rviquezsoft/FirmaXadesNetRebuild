@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
 Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3d06cccbc5de0828e5803f7afb437646a95cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb40b03e1734f8e89fd996b4841d4a83f4b18b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirmaXadesNetReBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirmaXadesNetReBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

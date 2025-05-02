@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\claimedrolecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\claimedrolecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\claimedrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\claimedrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\certrefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\certrefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\certifiedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\certifiedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\certifiedrolecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\certifiedrolecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\certifiedrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\certifiedrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\certificatevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\certificatevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\cert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\cert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\canonicalxmlnodelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\canonicalxmlnodelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\canonicalizationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\canonicalizationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\microsoft.xades\\alldataobjectstimestampcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\microsoft.xades\\alldataobjectstimestampcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|c:\\users\\richardeduardoviquez\\source\\repos\\firmaxadesnetrebuild\\firmaxadesnetrebuild\\xadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C274F95-1EDE-4377-895D-20F54AF027B7}|FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj|solutionrelative:firmaxadesnetrebuild\\xadesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +83,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimedRoleCollection.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRoleCollection.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRoleCollection.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRoleCollection.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRoleCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:18.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimedRole.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRole.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRole.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRole.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\ClaimedRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CertifiedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoles.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoles.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoles.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CertifiedRoleCollection.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoleCollection.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoleCollection.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoleCollection.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRoleCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:15.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CertifiedRole.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRole.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRole.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRole.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertifiedRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CertificateValues.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertificateValues.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertificateValues.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertificateValues.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertificateValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cert.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\Cert.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\Cert.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\Cert.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\Cert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:06:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CanonicalXmlNodeList.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalXmlNodeList.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalXmlNodeList.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalXmlNodeList.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalXmlNodeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:05:55.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CanonicalizationMethod.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalizationMethod.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalizationMethod.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalizationMethod.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CanonicalizationMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:05:53.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllDataObjectsTimeStampCollection.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\AllDataObjectsTimeStampCollection.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\AllDataObjectsTimeStampCollection.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\AllDataObjectsTimeStampCollection.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\AllDataObjectsTimeStampCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:05:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertRefs.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertRefs.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertRefs.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\Microsoft.Xades\\CertRefs.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\Microsoft.Xades\\CertRefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:05:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XadesService.cs",
+              "DocumentMoniker": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\XadesService.cs",
+              "RelativeDocumentMoniker": "FirmaXadesNetReBuild\\XadesService.cs",
+              "ToolTip": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\XadesService.cs",
+              "RelativeToolTip": "FirmaXadesNetReBuild\\XadesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:01:14.557Z",
+              "EditorCaption": ""
             }
           ]
         },

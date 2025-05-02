@@ -9,7 +9,7 @@
     <description>FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
 Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.</description>
     <releaseNotes>-Compatibilidad con .NET8</releaseNotes>
-    <repository type="git" url="https://github.com/rviquezsoft/FirmaXadesNetRebuild" commit="ae3d06cccbc5de0828e5803f7afb437646a95cb5" />
+    <repository type="git" url="https://github.com/rviquezsoft/FirmaXadesNetRebuild" commit="fb40b03e1734f8e89fd996b4841d4a83f4b18b3a" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="BouncyCastle.NetCore" version="1.8.8" exclude="Build,Analyzers" />
