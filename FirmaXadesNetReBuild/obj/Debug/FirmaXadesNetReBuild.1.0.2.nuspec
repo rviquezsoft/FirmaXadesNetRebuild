@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>FirmaXadesNetReBuild</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>FirmaXadesNetReBuild</authors>
     <readme>README.md</readme>
     <projectUrl>https://github.com/rviquezsoft/FirmaXadesNetRebuild</projectUrl>
@@ -18,7 +18,7 @@ Este repositorio contiene una versión modificada de la librería original Firma
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Release\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
     <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\README.md" target="\README.md" />
   </files>
 </package>

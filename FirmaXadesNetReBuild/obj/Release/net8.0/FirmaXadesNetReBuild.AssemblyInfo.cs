@@ -14,31 +14,9 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirmaXadesNetReBuild")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
-Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.
-
-La versión original estaba diseñada exclusivamente para .NET Framework, lo que impedía su uso en proyectos modernos basados en .NET Core o .NET 5+. Esta versión ha sido adaptada y actualizada para ser compatible con .NET 5, .NET 6, .NET 7 y .NET 8, manteniendo la funcionalidad original de firma XAdES.
-
--Objetivos de esta adaptación
-
-Compatibilidad con .NET moderno (.NET 5+)
-Migración de APIs obsoletas de .NET Framework
-Correcciones menores para mejorar la portabilidad y mantenimiento
-Asegurar compatibilidad con proyectos multiplataforma (Windows, Linux)
-
--Características principales
-
-Generación de firmas XAdES-BES
-Soporte para múltiples referencias en la firma
-Inclusión de propiedades de firma avanzadas (SigningTime, SigningCertificate, etc.)
-Soporte para firma de documentos XML
-
--Cambios clave respecto al proyecto original
-
-Eliminación de dependencias exclusivas de .NET Framework
-Uso de APIs compatibles con .NET moderno
-Validación de compatibilidad hasta .NET 8")]
+Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+961973c14e89c70005ed3a4557bec4abc664e048")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c0efcf496135fc3af998ad3289a8ee08554d622")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirmaXadesNetReBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirmaXadesNetReBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
