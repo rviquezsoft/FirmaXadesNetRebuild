@@ -1,4 +1,4 @@
-# FirmaXadesNet - Versión adaptada para .NET 5/6/7/8
+# FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
 
 Este repositorio contiene una **versión modificada** de la librería original [FirmaXadesNet](https://github.com/ctt-gob-es/FirmaXadesNet), desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.
 
