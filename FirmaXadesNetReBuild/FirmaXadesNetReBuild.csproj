@@ -4,7 +4,7 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<PackageVersion>1.0.2</PackageVersion>
+		<PackageVersion>1.0.3</PackageVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageReleaseNotes>
 			-Compatibilidad con .NET8
@@ -16,6 +16,7 @@ Este repositorio contiene una versión modificada de la librería original Firma
 		<RepositoryUrl>https://github.com/rviquezsoft/FirmaXadesNetRebuild</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/rviquezsoft/FirmaXadesNetRebuild</PackageProjectUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -28,6 +29,13 @@ Este repositorio contiene una versión modificada de la librería original Firma
 	<ItemGroup>
 		<PackageReference Include="BouncyCastle.NetCore" Version="1.8.8" />
 		<PackageReference Include="System.Security.Cryptography.Xml" Version="7.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="License\LICENSE">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
 	</ItemGroup>
 
 </Project>

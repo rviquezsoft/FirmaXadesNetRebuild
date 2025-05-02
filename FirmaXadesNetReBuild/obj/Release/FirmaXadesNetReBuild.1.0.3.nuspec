@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FirmaXadesNetReBuild</id>
+    <version>1.0.3</version>
+    <authors>FirmaXadesNetReBuild</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/rviquezsoft/FirmaXadesNetRebuild</projectUrl>
+    <description>FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
+Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.</description>
+    <releaseNotes>-Compatibilidad con .NET8</releaseNotes>
+    <repository type="git" url="https://github.com/rviquezsoft/FirmaXadesNetRebuild" commit="fcd8dd490b9e3c4f86a554cca9f2de1f9178ca03" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BouncyCastle.NetCore" version="1.8.8" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.Xml" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Release\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\License\LICENSE" target="\License\LICENSE" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\README.md" target="\README.md" />
+  </files>
+</package>
