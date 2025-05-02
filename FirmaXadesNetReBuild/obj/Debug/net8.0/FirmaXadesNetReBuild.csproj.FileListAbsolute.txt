@@ -1,0 +1,13 @@
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.deps.json
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.pdb
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.csproj.AssemblyReference.cache
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.AssemblyInfoInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.AssemblyInfo.cs
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.csproj.CoreCompileInputs.cache
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.sourcelink.json
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.dll
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\refint\FirmaXadesNetReBuild.dll
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\FirmaXadesNetReBuild.pdb
+C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\obj\Debug\net8.0\ref\FirmaXadesNetReBuild.dll
