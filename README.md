@@ -20,7 +20,6 @@ La versión original estaba diseñada exclusivamente para **.NET Framework**, lo
 
 ## Cambios clave respecto al proyecto original
 
-- Proyecto migrado a **SDK-style projects** (`.csproj`)
 - Eliminación de dependencias exclusivas de .NET Framework
 - Uso de APIs compatibles con .NET moderno
 - Validación de compatibilidad hasta .NET 8
