@@ -4,6 +4,8 @@ Este repositorio contiene una **versión modificada** de la librería original [
 
 La versión original estaba diseñada exclusivamente para **.NET Framework**, lo que impedía su uso en proyectos modernos basados en **.NET Core o .NET 5+**. Esta versión ha sido **adaptada y actualizada para ser compatible con .NET 5, .NET 6, .NET 7 y .NET 8**, manteniendo la funcionalidad original de firma XAdES.
 
+> 🔐 **Nuevo**: Se ha agregado un método de firma compatible con dispositivos criptográficos del **Banco Central de Costa Rica (BCCR)**, permitiendo firmar documentos XML exigidos por el **Ministerio de Hacienda de Costa Rica**.
+
 ## Objetivos de esta adaptación
 
 - Compatibilidad con **.NET moderno** (.NET 5+)
@@ -45,6 +47,7 @@ La librería `Microsoft.Xades` está licenciada bajo la **CeCILL-B**. Puedes con
 
 ## Cómo instalar:
 Se debe instalar el paquete nuget en visual studio o por consola: https://www.nuget.org/packages/FirmaXadesNetReBuild  ![Nuget](https://img.shields.io/nuget/v/FirmaXadesNetReBuild?label=Richard%20V%C3%ADquez)
+
 ## Cómo contribuir
 
 1. Realiza un fork de este repositorio.
