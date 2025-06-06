@@ -5,12 +5,15 @@ using FirmaXadesNetCore.Signature.Parameters;
 using FirmaXadesNetCore.Utils;
 using FirmaXadesNetCore.Validation;
 using Microsoft.Xades;
+using Org.BouncyCastle.Crypto.Tls;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Security.Cryptography;
+using System.Security.Cryptography.Pkcs;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Cryptography.Xml;
+using System.Text;
 using System.Xml;
 
 
@@ -131,6 +134,61 @@ namespace FirmaXadesNetCore
 
             return signatureDocument;
         }
+
+        /// <summary>
+        /// Método exlusivo para firmar XML de hacienda con firma del BCCR
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="parameters"></param>
+        /// <param name="signature_bites"></param>
+        /// <returns></returns>
+        /// <exception cref="Exception"></exception>
+        public SignatureDocument Sign(Stream input, SignatureParameters parameters, byte[] signature_bites)
+        {
+            if (parameters.Signer == null)
+            {
+                throw new Exception("Es necesario un certificado válido para la firma");
+            }
+
+            if (input == null && string.IsNullOrEmpty(parameters.ExternalContentUri))
+            {
+                throw new Exception("No se ha especificado ningún contenido a firmar");
+            }
+
+            SignatureDocument signatureDocument = new SignatureDocument();
+            _dataFormat = new DataObjectFormat();
+
+            _dataFormat.MimeType = "text/xml";
+            _dataFormat.Encoding = "UTF-8";
+            input.Position = 0;
+            SetContentEnveloped(signatureDocument, XMLUtil.LoadDocument(input));
+
+            if (parameters.DataFormat != null)
+            {
+                if (!string.IsNullOrEmpty(parameters.DataFormat.TypeIdentifier))
+                {
+                    _dataFormat.ObjectIdentifier = new ObjectIdentifier();
+                    _dataFormat.ObjectIdentifier.Identifier.IdentifierUri = parameters.DataFormat.TypeIdentifier;
+                }
+
+                _dataFormat.Description = parameters.DataFormat.Description;
+            }
+
+            SetSignatureId(signatureDocument.XadesSignature);
+
+            PrepareSignature(signatureDocument, parameters);
+
+     
+            signatureDocument.XadesSignature.ComputeSignature(signature_bites);
+
+            UpdateXadesSignature(signatureDocument);
+
+            return signatureDocument;
+        }
+
+     
+
+     
 
         /// <summary>
         /// Añade una firma al documento

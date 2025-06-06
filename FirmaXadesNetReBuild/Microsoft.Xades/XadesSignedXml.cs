@@ -1515,6 +1515,42 @@ namespace Microsoft.Xades
             this.m_signature.SignatureValue = description.CreateFormatter(signingKey).CreateSignature(hash);
         }
 
+        public new void ComputeSignature(byte[] signature_bites)
+        {
+
+            this.BuildDigestedReferences();
+            if (signature_bites is null)
+            {
+                throw new CryptographicException("Cryptography_Xml_SignatureBitesNUll");
+            }
+            AsymmetricAlgorithm signingKey = this.SigningKey;
+            if (signingKey == null)
+            {
+                throw new CryptographicException("Cryptography_Xml_LoadKeyFailed");
+            }
+            if (this.SignedInfo.SignatureMethod == null)
+            {
+                if (!(signingKey is DSA))
+                {
+                    if (!(signingKey is RSA))
+                    {
+                        throw new CryptographicException("Cryptography_Xml_CreatedKeyFailed");
+                    }
+                    if (this.SignedInfo.SignatureMethod == null)
+                    {
+                        this.SignedInfo.SignatureMethod = "http://www.w3.org/2000/09/xmldsig#rsa-sha1";
+                    }
+                }
+                else
+                {
+                    this.SignedInfo.SignatureMethod = "http://www.w3.org/2000/09/xmldsig#rsa-sha1";
+                }
+            }
+
+
+            this.m_signature.SignatureValue = signature_bites;
+        }
+
         public Reference GetContentReference()
         {
             XadesObject xadesObject = null;

@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>FirmaXadesNetReBuild</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <authors>FirmaXadesNetReBuild</authors>
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
@@ -20,8 +20,8 @@ Este repositorio contiene una versión modificada de la librería original Firma
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetRebuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetRebuild\FirmaXadesNetReBuild\License\LICENSE" target="\License\LICENSE" />
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetRebuild\README.md" target="\README.md" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\License\LICENSE" target="\License\LICENSE" />
+    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\README.md" target="\README.md" />
   </files>
 </package>
